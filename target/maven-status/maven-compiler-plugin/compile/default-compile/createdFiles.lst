@@ -1,0 +1,6 @@
+com\kaishengit\pojo\Role.class
+com\kaishengit\controller\HomeController.class
+com\kaishengit\mapper\UserLogMapper.class
+com\kaishengit\pojo\UserLog.class
+com\kaishengit\pojo\User.class
+com\kaishengit\mapper\UserMapper.class
